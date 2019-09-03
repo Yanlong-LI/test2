@@ -1,0 +1,22 @@
+{
+	"Name": "test2",
+	"Version": "0.0.1",
+	"Description": "test2",
+	"Homepage": "https://github.com/Yanlong-LI/test2",
+	"Type": "module",
+	"License": "MulanPSL",
+	"Authors": [
+		{
+			"Name": "Yanlong-li",
+			"Email": "ahlyl94@gmail.com",
+			"Description": "Core developers"
+		}
+	],
+	"Custom": {
+		"yanlong-li/test": {
+			"Version": "0.0.0.3",
+			"Source": "tag@https://github.com/Yanlong-LI/test",
+			"Type": "git"
+		},
+	}
+}
