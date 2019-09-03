@@ -17,6 +17,6 @@
 			"Version": "0.0.0.3",
 			"Source": "tag@https://github.com/Yanlong-LI/test",
 			"Type": "git"
-		},
+		}
 	}
 }
